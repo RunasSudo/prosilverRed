@@ -68,7 +68,7 @@ hr {
 }
 
 .panel {
-	background-color: #ECF1F3;
+	background-color: #F3ECED;
 	color: #3F2D28;
 }
 
@@ -124,7 +124,7 @@ table.table1 tbody tr {
 }
 
 table.table1 tbody tr:hover, table.table1 tbody tr.hover {
-	background-color: #CFE1F6;
+	background-color: #F6D4CF;
 	color: #000;
 }
 
@@ -1080,7 +1080,7 @@ input.disabled {
 }
 
 .dropdown-extended ul li:hover {
-	background-color: #CFE1F6;
+	background-color: #F6D4CF;
 	color: #000000;
 }
 
