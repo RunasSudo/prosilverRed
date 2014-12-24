@@ -58,7 +58,7 @@ hr {
 }
 
 .forabg {
-	background-color: #0076b1;
+	background-color: #b1000f;
 	background-image: url("./images/bg_list.gif");
 }
 
@@ -314,12 +314,12 @@ Colours and backgrounds for content.css
 -------------------------------------------------------------- */
 
 ul.forums {
-	background-color: #eef5f9;
+	background-color: #f9eeef;
 	background-image: url("./images/gradient.gif");
 }
 
 ul.topiclist li {
-	color: #4C5D77;
+	color: #77544C;
 }
 
 ul.topiclist dd {
@@ -878,7 +878,7 @@ ul.cplist {
 
 /* Friends list */
 .cp-mini {
-	background-color: #eef5f9;
+	background-color: #f9eeef;
 }
 
 dl.mini dt {
@@ -1146,7 +1146,7 @@ ul.linklist li.responsive-menu a.responsive-menu-link:hover:before, ul.linklist 
 ---------------------------------------- */
 
 .notification_list p.notification-time {
-	color: #4C5D77;
+	color: #77544C;
 }
 
 li.notification-reported strong, li.notification-disapproved strong {
