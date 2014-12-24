@@ -81,19 +81,19 @@ hr {
 }
 
 .bg1 {
-	background-color: #ECF3F7;
+	background-color: #F7ECED;
 }
 
 table.zebra-list tr:nth-child(odd) td, ul.zebra-list li:nth-child(odd) {
-	background-color: #ECF3F7;
+	background-color: #F7ECED;
 }
 
 .bg2 {
-	background-color: #e1ebf2;
+	background-color: #f2e1e1;
 }
 
 table.zebra-list tr:nth-child(even) td, ul.zebra-list li:nth-child(even) {
-	background-color: #e1ebf2;
+	background-color: #f2e1e1;
 }
 
 .bg3	{ background-color: #cadceb; }
