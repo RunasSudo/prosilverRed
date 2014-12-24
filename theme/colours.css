@@ -48,13 +48,13 @@ hr {
 }
 
 .headerbar {
-	background-color: #12A3EB;
+	background-color: #EB1224;
 	background-image: url("./images/bg_header.gif");
 	color: #FFFFFF;
 }
 
 .navbar {
-	background-color: #cadceb;
+	background-color: #ebcbca;
 }
 
 .forabg {
@@ -63,7 +63,7 @@ hr {
 }
 
 .forumbg {
-	background-color: #12A3EB;
+	background-color: #EB1224;
 	background-image: url("./images/bg_header.gif");
 }
 
@@ -244,7 +244,7 @@ p.post-notice.reported:before, p.post-notice.error:before {
 Colours and backgrounds for links.css
 -------------------------------------------------------------- */
 
-a { color: #105289; }
+a { color: #891410; }
 a:hover	{ color: #D31141; }
 
 /* Links on gradient backgrounds */
@@ -1117,7 +1117,7 @@ input.disabled {
 }
 
 ul.linklist li.responsive-menu a.responsive-menu-link:before {
-	border-color: #105289;
+	border-color: #891410;
 }
 
 ul.linklist li.responsive-menu a.responsive-menu-link:hover:before, ul.linklist li.responsive-menu.visible a.responsive-menu-link:before {
