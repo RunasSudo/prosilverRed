@@ -13,7 +13,7 @@ h1 {
 }
 
 h2 {
-	color: #28313F;
+	color: #3F2D28;
 }
 
 h3 {
@@ -69,7 +69,7 @@ hr {
 
 .panel {
 	background-color: #ECF1F3;
-	color: #28313F;
+	color: #3F2D28;
 }
 
 .post:target .content {
@@ -96,7 +96,7 @@ table.zebra-list tr:nth-child(even) td, ul.zebra-list li:nth-child(even) {
 	background-color: #f2e1e1;
 }
 
-.bg3	{ background-color: #cadceb; }
+.bg3	{ background-color: #ebcbca; }
 
 .ucprowbg {
 	background-color: #DCDEE2;
@@ -733,7 +733,7 @@ Colours and backgrounds for cp.css
 ----------------------------------------*/
 
 .panel-container h3, .panel-container hr, #cp-menu hr {
-	border-color: #A4B3BF;
+	border-color: #BFA5A4;
 }
 
 .panel-container .panel li.row {
@@ -762,7 +762,7 @@ ul.cplist {
 /* CP tabbed menu
 ----------------------------------------*/
 #tabs .tab > a {
-	background: #BACCD9;
+	background: #D9BABA;
 	color: #825D53;
 }
 
@@ -773,15 +773,15 @@ ul.cplist {
 
 #tabs .activetab > a,
 #tabs .activetab > a:hover {
-	background: #CADCEB;
-	background: -moz-linear-gradient(top, #E2F2FF 0%, #CADCEB 100%);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #E2F2FF), color-stop(100%, #CADCEB));
-	background: -webkit-linear-gradient(top, #E2F2FF 0%, #CADCEB 100%);
-	background: -o-linear-gradient(top, #E2F2FF 0%, #CADCEB 100%);
-	background: -ms-linear-gradient(top, #E2F2FF 0%, #CADCEB 100%);
-	background: linear-gradient(to bottom, #E2F2FF 0%, #CADCEB 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E2F2FF', endColorstr='#CADCEB', GradientType=0 );
-	border-color: #CADCEB;
+	background: #EBCBCA;
+	background: -moz-linear-gradient(top, #FFE3E2 0%, #EBCBCA 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFE3E2), color-stop(100%, #EBCBCA));
+	background: -webkit-linear-gradient(top, #FFE3E2 0%, #EBCBCA 100%);
+	background: -o-linear-gradient(top, #FFE3E2 0%, #EBCBCA 100%);
+	background: -ms-linear-gradient(top, #FFE3E2 0%, #EBCBCA 100%);
+	background: linear-gradient(to bottom, #FFE3E2 0%, #EBCBCA 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FFE3E2', endColorstr='#EBCBCA', GradientType=0 );
+	border-color: #EBCBCA;
 	box-shadow: 0 1px 1px #F2F9FF inset;
 	color: #333333;
 }
@@ -818,29 +818,29 @@ ul.cplist {
 /* Link styles for the sub-section links */
 #navigation a {
 	color: #333;
-	background: #B4C4D1;
-	background: -moz-linear-gradient(left, #B4C4D1 50%, #CADCEB 100%);
-	background: -webkit-gradient(left top, right top, color-stop(50%, #B4C4D1), color-stop(100%, #CADCEB));
-	background: -webkit-linear-gradient(left, #B4C4D1 50%, #CADCEB 100%);
-	background: -o-linear-gradient(left, #B4C4D1 50%, #CADCEB 100%);
-	background: -ms-linear-gradient(left, #B4C4D1 50%, #CADCEB 100%);
-	background: linear-gradient(to right, #B4C4D1 50%, #CADCEB 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#B4C4D1', endColorstr='#CADCEB', GradientType=1 );
+	background: #D1B5B4;
+	background: -moz-linear-gradient(left, #D1B5B4 50%, #EBCBCA 100%);
+	background: -webkit-gradient(left top, right top, color-stop(50%, #D1B5B4), color-stop(100%, #EBCBCA));
+	background: -webkit-linear-gradient(left, #D1B5B4 50%, #EBCBCA 100%);
+	background: -o-linear-gradient(left, #D1B5B4 50%, #EBCBCA 100%);
+	background: -ms-linear-gradient(left, #D1B5B4 50%, #EBCBCA 100%);
+	background: linear-gradient(to right, #D1B5B4 50%, #EBCBCA 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#D1B5B4', endColorstr='#EBCBCA', GradientType=1 );
 }
 
 .rtl #navigation a {
-	background: #B4C4D1;
-	background: -moz-linear-gradient(left, #CADCEB 0%, #B4C4D1 50%);
-	background: -webkit-gradient(left top, right top, color-stop(0%, #CADCEB), color-stop(50%, #B4C4D1));
-	background: -webkit-linear-gradient(left, #CADCEB 0%, #B4C4D1 50%);
-	background: -o-linear-gradient(left, #CADCEB 0%, #B4C4D1 50%);
-	background: -ms-linear-gradient(left, #CADCEB 0%, #B4C4D1 50%);
-	background: linear-gradient(to right, #CADCEB 0%, #B4C4D1 50%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#CADCEB', endColorstr='#B4C4D1', GradientType=1 );
+	background: #D1B5B4;
+	background: -moz-linear-gradient(left, #EBCBCA 0%, #D1B5B4 50%);
+	background: -webkit-gradient(left top, right top, color-stop(0%, #EBCBCA), color-stop(50%, #D1B5B4));
+	background: -webkit-linear-gradient(left, #EBCBCA 0%, #D1B5B4 50%);
+	background: -o-linear-gradient(left, #EBCBCA 0%, #D1B5B4 50%);
+	background: -ms-linear-gradient(left, #EBCBCA 0%, #D1B5B4 50%);
+	background: linear-gradient(to right, #EBCBCA 0%, #D1B5B4 50%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#EBCBCA', endColorstr='#D1B5B4', GradientType=1 );
 }
 
 #navigation a:hover {
-	background: #AABAC6;
+	background: #C6AAAA;
 	color: #BC2A4D;
 	filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
 }
@@ -882,7 +882,7 @@ ul.cplist {
 }
 
 dl.mini dt {
-	color: #425067;
+	color: #674942;
 }
 
 /* PM Styles
@@ -938,7 +938,7 @@ select {
 }
 
 label {
-	color: #425067;
+	color: #674942;
 }
 
 option.disabled-option {
@@ -1096,12 +1096,12 @@ input.disabled {
 
 .dropdown-extended .header {
 	background: #F1F8FF;
-	background: -moz-linear-gradient(top, #F1F8FF 0%, #CADCEB 100%);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #F1F8FF), color-stop(100%, #CADCEB));
-	background: -webkit-linear-gradient(top, #F1F8FF 0%, #CADCEB 100%);
-	background: -o-linear-gradient(top, #F1F8FF 0%, #CADCEB 100%);
-	background: -ms-linear-gradient(top, #F1F8FF 0%, #CADCEB 100%);
-	background: linear-gradient(to bottom, #F1F8FF 0%, #CADCEB 100%);
+	background: -moz-linear-gradient(top, #F1F8FF 0%, #EBCBCA 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #F1F8FF), color-stop(100%, #EBCBCA));
+	background: -webkit-linear-gradient(top, #F1F8FF 0%, #EBCBCA 100%);
+	background: -o-linear-gradient(top, #F1F8FF 0%, #EBCBCA 100%);
+	background: -ms-linear-gradient(top, #F1F8FF 0%, #EBCBCA 100%);
+	background: linear-gradient(to bottom, #F1F8FF 0%, #EBCBCA 100%);
 }
 
 .dropdown .pointer {
