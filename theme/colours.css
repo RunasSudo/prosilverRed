@@ -4,7 +4,7 @@ Colours and backgrounds for common.css
 -------------------------------------------------------------- */
 
 html, body {
-	color: #536482;
+	color: #825D53;
 	background-color: #FAF6F5;
 }
 
@@ -129,7 +129,7 @@ table.table1 tbody tr:hover, table.table1 tbody tr.hover {
 }
 
 table.table1 td {
-	color: #536482;
+	color: #825D53;
 }
 
 table.table1 tbody td {
@@ -153,7 +153,7 @@ dl.details dt {
 }
 
 dl.details dd {
-	color: #536482;
+	color: #825D53;
 }
 
 .sep {
@@ -610,7 +610,7 @@ Colours and backgrounds for buttons.css
 }
 
 .dropdown-select {
-	color: #536482;
+	color: #825D53;
 }
 
 .button:hover, .dropdown-visible .dropdown-select, .nojs .dropdown-container:hover .dropdown-select {
@@ -763,7 +763,7 @@ ul.cplist {
 ----------------------------------------*/
 #tabs .tab > a {
 	background: #BACCD9;
-	color: #536482;
+	color: #825D53;
 }
 
 #tabs .tab > a:hover {
@@ -805,7 +805,7 @@ ul.cplist {
 /* Responsive tabs
 ----------------------------------------*/
 .responsive-tab .responsive-tab-link:before {
-	border-color: #536482;
+	border-color: #825D53;
 }
 
 .responsive-tab .responsive-tab-link:hover:before {
