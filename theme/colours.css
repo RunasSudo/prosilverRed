@@ -268,13 +268,13 @@ a:hover	{ color: #D31141; }
 }
 
 .postlink:visited {
-	color: #5D8FBD;
-	border-bottom-color: #5D8FBD;
+	color: #BD635D;
+	border-bottom-color: #BD635D;
 }
 
 .postlink:hover {
-	background-color: #D0E4F6;
-	color: #0D4473;
+	background-color: #F6D2D0;
+	color: #73120D;
 }
 
 .signature a, .signature a:hover {
@@ -907,7 +907,7 @@ dl.mini dt {
 }
 
 .pmlist li.pm_friend_colour, .pm_friend_colour {
-	border-color: #5D8FBD;
+	border-color: #BD635D;
 }
 
 .pmlist li.pm_foe_colour, .pm_foe_colour {
