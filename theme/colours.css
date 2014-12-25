@@ -614,7 +614,7 @@ Colours and backgrounds for buttons.css
 }
 
 .button:hover, .dropdown-visible .dropdown-select, .nojs .dropdown-container:hover .dropdown-select {
-	border-color: #0a8ed0;
+	border-color: #d00a1a;
 	background-image: -moz-linear-gradient(top, #E9E9E9, #FFFFFF);
 	background-image: -webkit-linear-gradient(top, #E9E9E9, #FFFFFF);
 	background-image: -o-linear-gradient(top, #E9E9E9, #FFFFFF);
