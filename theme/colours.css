@@ -181,8 +181,8 @@ dl.details dd {
 }
 
 .pagination li a:hover, .pagination .dropdown-visible a.dropdown-trigger, .nojs .pagination .dropdown-container:hover a.dropdown-trigger {
-	border-color: #368AD2;
-	background-color: #368AD2;
+	border-color: #D23E36;
+	background-color: #D23E36;
 	color: #FFFFFF;
 }
 
@@ -263,8 +263,8 @@ a:hover	{ color: #D31141; }
 
 /* Post body links */
 .postlink {
-	color: #368AD2;
-	border-bottom-color: #368AD2;
+	color: #D23E36;
+	border-bottom-color: #D23E36;
 }
 
 .postlink:visited {
@@ -301,11 +301,11 @@ a.arrow-up:hover {
 }
 
 a.arrow-left:hover {
-	color: #368AD2;
+	color: #D23E36;
 }
 
 a.arrow-right:hover {
-	color: #368AD2;
+	color: #D23E36;
 }
 
 /*
@@ -496,7 +496,7 @@ dl.thumbnail dt a:hover {
 }
 
 dl.thumbnail dt a:hover img {
-	border-color: #368AD2;
+	border-color: #D23E36;
 }
 
 /* Post poll styles
